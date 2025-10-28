@@ -1,12 +1,11 @@
 ## 👋 Hi, I'm **Yashrajsinh Kanchva**
 
-🎯 **Aspiring Software Developer | Java & MySQL | DSA Enthusiast**
+🎯 **Aspiring Software Developer | DSA Enthusiast**
 
 ---
 
 ### 💻 About Me  
-- 🎓 Computer Science student passionate about **building impactful projects**  
-- 💡 Currently developing a **University Management System** using **Java + MySQL**  
+- 🎓 Computer Science student passionate about **building impactful projects**    
 - 🧩 Practicing **Data Structures and Algorithms** on **LeetCode**  
 - 🛠 Interested in **backend systems**, **problem solving**, and **system design**  
 - 🚀 Love turning ideas into working projects and learning through code  
@@ -14,9 +13,9 @@
 ---
 
 ### 🧠 Tech Stack  
-💬 **Languages:** Java, Python, C  
-🧰 **Tools & Tech:** MySQL, HTML, CSS, JavaScript  
-🧮 **Concepts:** OOPs, DSA, DBMS, OS, Computer Networks  
+💬 **Languages:** Java, Python 
+🧰 **Tools & Tech:** MySQL, HTML, CSS
+🧮 **Concepts:** OOPs, DSA, DBMS 
 
 ---
 
@@ -48,6 +47,10 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
+---
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ---
 
