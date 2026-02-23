@@ -35,7 +35,7 @@
 
 ### 🔗 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/yashrajsinh-kanchva-186310387/" target="_blank">
+  <a href="https://www.linkedin.com/in/yashrajsinh-kanchva/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:yashrajsinhkanchva7435@gmail.com">
