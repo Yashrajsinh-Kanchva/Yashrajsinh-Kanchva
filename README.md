@@ -1,11 +1,11 @@
 ## 👋 Hi, I'm **Yashrajsinh Kanchva**
 
-🎯 **Aspiring Software Developer | DSA Enthusiast**
+🎯 **Full Stack Developer | DSA Enthusiast**
 
 ---
 
 ### 💻 About Me  
-- 🎓 Computer Science student passionate about **building impactful projects**    
+- 🎓 IT student passionate about **building impactful projects**    
 - 🧩 Practicing **Data Structures and Algorithms** on **LeetCode**  
 - 🛠 Interested in **backend systems**, **problem solving**, and **system design**  
 - 🚀 Love turning ideas into working projects and learning through code  
@@ -13,7 +13,7 @@
 ---
 
 ### 🧠 Tech Stack  
-💬 **Languages:** Java, Python      
+💬 **Languages:** Java, Python, JavaScript      
 🧰 **Tools & Tech:** MySQL, HTML, CSS     
 🧮 **Concepts:** OOPs, DSA, DBMS
 
@@ -27,9 +27,9 @@
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajsinh-Kanchva&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
-</p>
+</p> -->
 
 ---
 
