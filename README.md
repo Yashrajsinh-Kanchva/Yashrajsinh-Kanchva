@@ -27,6 +27,28 @@
 
 ---
 
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashrajsinh-Kanchva&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Yashrajsinh-Kanchva&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajsinh-Kanchva&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🔥 Current Focus  
+
+- 🚀 Contributing to **Open Source Projects**  
+- 🧠 Strengthening **DSA & Problem Solving**  
+- 🤖 Building **AI-based applications**  
+- ⚙️ Improving **backend & system design skills**  
+
+---
+
 ## 🚀 Featured Projects  
 
 ### 🎯 Physical Event Experience System  
@@ -62,28 +84,6 @@
 🔗 https://github.com/Yashrajsinh-Kanchva/LeetCode-Series  
 - Collection of DSA solutions  
 - Focus on **problem-solving & logic building**  
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashrajsinh-Kanchva&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=Yashrajsinh-Kanchva&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajsinh-Kanchva&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🔥 Current Focus  
-
-- 🚀 Contributing to **Open Source Projects**  
-- 🧠 Strengthening **DSA & Problem Solving**  
-- 🤖 Building **AI-based applications**  
-- ⚙️ Improving **backend & system design skills**  
 
 ---
 
